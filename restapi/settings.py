@@ -106,7 +106,7 @@ DATABASES = {
         'USER': 'root',
         'PASSWORD': '1234',
         'HOST': 'app-f36e155d7d1c6391bbc0556f0d6fd26b-chart.50010-0c90e0.svc.cluster.local',
-        'PORT': '30005',
+        'PORT': '3306',
     }
 }
 
